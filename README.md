@@ -2,7 +2,7 @@
 
 This is my team's product, Last Word.
 
-![](https://i.imgur.com/GTmVb2e.png)
+![](img/lastword.png)
 
 ![](img/lastword2.png)
 
