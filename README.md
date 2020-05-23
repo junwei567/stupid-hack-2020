@@ -4,6 +4,8 @@ This is my team's product, Last Word.
 
 ![](https://i.imgur.com/GTmVb2e.png)
 
+![](img/lastword2.png)
+
 **Everyone will die.** At some point.
 We never know exactly when we will die and how. 
 Yet, we go to jump with parachute, cook with gas, drink filtered coffee..
