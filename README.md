@@ -1,8 +1,4 @@
----
-title: 'Last Word'
----
- 
- # Stupid Hack 2020
+# Stupid Hack 2020
 
 This is my team's product, Last Word. Built for the [Stupid Hack 2020](https://app.hackjunction.com/events/stupidhack2020).
 
