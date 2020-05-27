@@ -27,5 +27,5 @@ npm install
 
 ### Authors
 
-Jun Wei
+Jun Wei  <br />
 [Lubov](https://github.com/Trubkazub/last-word)
