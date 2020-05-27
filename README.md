@@ -24,7 +24,9 @@ Install all dependencies with nodejs
 ```
 npm install
 ```
+
  <br />
+ 
 ### Authors
 
 Jun Wei  <br />
