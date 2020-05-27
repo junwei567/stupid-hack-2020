@@ -17,3 +17,15 @@ We will share the message all across your social media in 3 days if you do meet 
 
 Didn't die? Not a problem! 
 You can cancel the posting of your last words, and we will give you a reward for survival and a discount from the insurance company.
+
+## Getting Started
+
+Install all dependencies with nodejs
+```
+npm install
+```
+
+### Authors
+
+Jun Wei
+[Lubov](https://github.com/Trubkazub/last-word)
